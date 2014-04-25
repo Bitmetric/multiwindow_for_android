@@ -1,6 +1,6 @@
 # Jabol (Just Android But Onboarded Linux)
 Jabol (a.k.a. Tieto MultiWindow) is a modification of Android Framework which enables to launch and use multiple applications at the same time. The project aims to create desktop-like user experience. It is created by [Tieto](http://www.tieto.com).
-Currently Jabol is available for Android Kitkat 4.4.2. For more information please visit [jabol](http://github.com/multiwindow_for_android/wiki/Jabol) page.
+Currently Jabol is available for Android Kitkat 4.4.2. For more information please visit [Jabol](http://github.com/tieto/multiwindow_for_android/wiki/Jabol) page.
 
 ## Features
 [Screenshot 1](https://raw.githubusercontent.com/wiki/tieto/multiwindow_for_android/s1.png)
