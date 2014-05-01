@@ -1,6 +1,6 @@
-# TietoMultiWindow
+# TietoMultiWindow for Android 4.2.2
 TietoMultiWindow is a modification of Android Framework which enables to launch and see multiple applications at the same time. It is created by [Tieto](http://www.tieto.com), inspired by [Cornerstone] (https://github.com/Onskreen/cornerstone). 
-Currently available for Android 4.2.2 (source code available), KitKat (4.4) version coming soon.
+For KitKat (4.4) version please visit [Multiwindow Jabol](http://github.com/tieto/multiwindow_for_android/tieto_multiwindow) page.
 
 ## Features
 Here is a short demo of TietoMultiWindow : http://www.youtube.com/watch?v=cwvxWIt30lU
