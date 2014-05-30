@@ -31,5 +31,8 @@ Projects:
 
 are released under [Apache 2.0 Licence] (http://www.apache.org/licenses/LICENSE-2.0.html).
 
+## Community
+You can as questions on mailing group: [Tieto multiwindow for android](https://groups.google.com/forum/#!forum/tieto-multiwindow-for-android)
+
 ## About Tieto
 Tieto’s Product Development Services is the unique telecom expert with global presence. For 30 years we have been in the forefront of mobile and telecom technology. When you think of all the mobile calls in the world – more than half of them are possible because of us! It is Tieto – the product development services – that keeps the telecom technology in motion.
