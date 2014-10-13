@@ -21,6 +21,8 @@ Thanks to Tieto development team members:
 * Adam Jordanek
 * Dariusz Kluska
 * Mateusz Madetko
+* Wojciech Pawlica
+* Krzysztof Wrotkowski
 
 ## Licence
 Projects:
